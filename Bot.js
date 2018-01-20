@@ -11,7 +11,7 @@ var commands = {
     execute: getVideo,
     description: 'Ich suche ein Video für dich Meister'
   },
-  '!help': {
+  '!hilfe': {
     execute: showHelp
   },
   '!play': {
